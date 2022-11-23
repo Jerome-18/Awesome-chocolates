@@ -53,7 +53,16 @@ This is the master data of sales.
 ##### Customers - number of customer
 ##### Boxes - number of boxes sold
 
+###   CREATING THE TABLE IN SQL
 
+To create the table in sql I used sql workbench and imported the csv file of the data by specifying the columns and column types rather than inserting the data
+manually. With the four files I craeated 4 different tables in the sql database.
+
+
+### ANALYSIS
+
+I started by looking at each columns of the data. I have used the general functions, aggregate functions, aggregate functions with window functions , wildcards ,
+CTE , joins and case statements for writing the queries.
 
 
 
